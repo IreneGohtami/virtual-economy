@@ -1,0 +1,1077 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Initialize Turborepo monorepo with apps/ and packages/ directories": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205105
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630216847
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630428607
+      }
+    ],
+    "1.2 Define shared TypeScript interfaces and enums in `packages/shared-types`": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205196
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630438035
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635481719
+      }
+    ],
+    "1.3 Implement pure game-rules calculation functions in `packages/game-rules`": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205256
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635491834
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635653901
+      }
+    ],
+    "1.5 Create game configuration loader in `packages/config`": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205326
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630438848
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635482243
+      }
+    ],
+    "2. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205374
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635693040
+      },
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635837180
+      }
+    ],
+    "3.1 Bootstrap NestJS application in `apps/api`": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205452
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786669955621
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786670195928
+      }
+    ],
+    "3.2 Create PostgreSQL entity definitions and migrations": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205523
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786670201941
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786670639914
+      }
+    ],
+    "3.3 Implement Wallet Ledger service with transactional integrity": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205591
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786670645995
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671034106
+      }
+    ],
+    "4.1 Implement Auth module with JWT-based session management": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205663
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786670647024
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671034557
+      }
+    ],
+    "4.2 Implement Player module with specialty selection and state management": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205728
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671041543
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671472826
+      }
+    ],
+    "5.1 Implement Map module with procedural generation and terrain validation": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205754
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671042148
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671473362
+      }
+    ],
+    "5.2 Implement land purchase system with tiered pricing and CITY tile lock": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205781
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671479334
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671830497
+      }
+    ],
+    "6.1 Implement factory construction with level differentiation": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205816
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671480406
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671831255
+      }
+    ],
+    "6.2 Implement factory deconstruction and maintenance": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205847
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671837304
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672393162
+      }
+    ],
+    "6.3 Implement exclusive output switching (Requirement 27)": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205878
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671838426
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672394000
+      }
+    ],
+    "7.1 Implement worker pool, hiring, and assignment system": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205910
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671839411
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672394810
+      }
+    ],
+    "8. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205939
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672401734
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672611262
+      }
+    ],
+    "9.1 Implement L0 production with incremental output and yield modifiers": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630205974
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672617420
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673914717
+      }
+    ],
+    "9.2 Implement production pause/resume on storage capacity overflow": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206016
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673921909
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017366714
+      }
+    ],
+    "9.3 Implement L1 processing and L2 assembly production paths": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206049
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673922892
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017367166
+      }
+    ],
+    "9.4 Implement fertilizer boost system": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206102
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673923810
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017115159
+      }
+    ],
+    "10.1 Implement inventory tracking and storage upgrade system": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206170
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672618368
+      },
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673915313
+      }
+    ],
+    "11.1 Implement FIFO marketplace with listing, purchase, and cancellation": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206204
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017373782
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017760124
+      }
+    ],
+    "11.3 Implement Instant Sell mechanism": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206239
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017766819
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018120014
+      }
+    ],
+    "12.1 Implement dynamic pricing engine with stabilization period": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206278
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017767547
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018119402
+      }
+    ],
+    "13.1 Implement loan system with multiple concurrent loans and installment processing": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206311
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018126902
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018598692
+      }
+    ],
+    "14. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206342
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018605946
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019006364
+      }
+    ],
+    "15.1 Implement shop construction, stocking, and revenue generation": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206378
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018606623
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019007144
+      }
+    ],
+    "16.1 Implement season management with initialization and reset": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206432
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019018754
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019365994
+      }
+    ],
+    "17.1 Implement natural disasters and economic events system": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206463
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019019645
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019366288
+      }
+    ],
+    "18.1 Implement happiness tracking, decay, boosts, and worker disruptions": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206500
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019373148
+      },
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019795581
+      }
+    ],
+    "19.1 Implement real-time notification system with WebSocket channels": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206529
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025044963
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025514612
+      }
+    ],
+    "20. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206581
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025521889
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025791748
+      }
+    ],
+    "21.1 Set up BullMQ worker infrastructure in `apps/worker`": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206648
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025522907
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025792211
+      }
+    ],
+    "21.2 Implement production worker for incremental production jobs": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206723
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025798701
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026209316
+      }
+    ],
+    "21.3 Implement economy worker for daily price recalibration": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206747
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025799677
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026209921
+      }
+    ],
+    "21.4 Implement depreciation and maintenance workers": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206772
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025800476
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026210740
+      }
+    ],
+    "21.5 Implement happiness, worker disruption, and salary workers": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206802
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025801319
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026211481
+      }
+    ],
+    "21.6 Implement loan installment and shop consumption workers": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206836
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026218225
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026500694
+      }
+    ],
+    "21.7 Implement event and season workers": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206872
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026218995
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026500058
+      }
+    ],
+    "21.8 Implement inactivity check worker": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206899
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026219820
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026501383
+      }
+    ],
+    "22.1 Implement Season-End Summary and highlights": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206925
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026514871
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026893081
+      }
+    ],
+    "23.1 Implement admin endpoints and simulation engine": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206957
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026513903
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026893407
+      }
+    ],
+    "24. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630206995
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026901330
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027510012
+      }
+    ],
+    "25.1 Set up Next.js application with shared UI library": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207046
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026903430
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027510554
+      }
+    ],
+    "25.2 Implement game map view with terrain rendering and tile interaction": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207078
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027526181
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027835949
+      }
+    ],
+    "25.3 Implement factory management UI": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207114
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027527048
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027836465
+      }
+    ],
+    "25.4 Implement production, inventory, and marketplace UI": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207162
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027851330
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787028167461
+      }
+    ],
+    "25.5 Implement worker, shop, bank, and happiness UI panels": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207229
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027850409
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787028168284
+      }
+    ],
+    "25.6 Implement dashboard, leaderboard, notifications, and season summary views": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207257
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787028175210
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033126446
+      }
+    ],
+    "26.1 Implement server-authority validation and rate limiting": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207281
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026903489
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027511324
+      }
+    ],
+    "27.1 Create Docker Compose development environment": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207317
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787028176080
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033126865
+      }
+    ],
+    "27.2 Wire all modules together with end-to-end flow verification": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207349
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033135311
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033267568
+      }
+    ],
+    "28. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786630207380
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033136194
+      },
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033267974
+      }
+    ],
+    "1. Set up monorepo structure and shared packages": [
+      {
+        "executionId": "cbc1d0b7-c5a0-4073-a17e-edfc3d13d04c",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786635653964
+      }
+    ],
+    "3. Set up NestJS API application with database layer": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671034155
+      }
+    ],
+    "4. Implement Auth and Player modules": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671472945
+      }
+    ],
+    "5. Implement Map and Land modules": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786671830567
+      }
+    ],
+    "6. Implement Factory module with construction, depreciation, and output switching": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672394039
+      }
+    ],
+    "7. Implement Worker module": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786672394847
+      }
+    ],
+    "10. Implement Inventory and Storage module": [
+      {
+        "executionId": "9d9450a2-0fad-48cb-be1c-341309cf478e",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1786673915344
+      }
+    ],
+    "9. Implement Production module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787017367237
+      }
+    ],
+    "12. Implement Economy and Dynamic Pricing module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018119613
+      }
+    ],
+    "11. Implement Marketplace module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018120051
+      }
+    ],
+    "13. Implement Bank and Loan module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787018598778
+      }
+    ],
+    "15. Implement Shop module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019007185
+      }
+    ],
+    "16. Implement Season Lifecycle module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019366063
+      }
+    ],
+    "17. Implement Event module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019366337
+      }
+    ],
+    "18. Implement Workforce Happiness module": [
+      {
+        "executionId": "1f07b729-1779-4033-b437-6e31a9c433fb",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787019795738
+      }
+    ],
+    "19. Implement Notification module with WebSocket gateway": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787025514838
+      }
+    ],
+    "21. Implement Background Workers": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026501433
+      }
+    ],
+    "22. Implement Season Summary generation": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026893167
+      }
+    ],
+    "23. Implement Admin module and Recipe Simulation Engine": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787026893479
+      }
+    ],
+    "26. Implement Anti-Cheat and Rate Limiting": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787027511371
+      }
+    ],
+    "25. Implement Web Client (Next.js frontend)": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033126641
+      }
+    ],
+    "27. Integration wiring and Docker setup": [
+      {
+        "executionId": "49b03122-54fb-49e2-ae78-d32da29448f1",
+        "chatSessionId": "sess_1a276d25-1ef3-4c26-aa20-516ade95b858",
+        "timestamp": 1787033267642
+      }
+    ]
+  }
+}

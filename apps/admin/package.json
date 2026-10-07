@@ -1,0 +1,20 @@
+{
+  "name": "@sea-commodity-tycoon/admin",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "dev": "vite",
+    "lint": "eslint src/",
+    "test": "vitest run --passWithNoTests",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@sea-commodity-tycoon/shared-types": "workspace:*",
+    "@sea-commodity-tycoon/ui": "workspace:*",
+    "@sea-commodity-tycoon/config": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

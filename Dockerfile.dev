@@ -1,0 +1,31 @@
+FROM node:20-alpine
+
+# Install pnpm
+RUN corepack enable && corepack prepare pnpm@9.15.0 --activate
+
+WORKDIR /app
+
+# Copy workspace configuration
+COPY package.json pnpm-workspace.yaml pnpm-lock.yaml* turbo.json tsconfig.base.json ./
+
+# Copy all package.json files for dependency resolution
+COPY apps/api/package.json apps/api/tsconfig.json apps/api/nest-cli.json ./apps/api/
+COPY apps/worker/package.json apps/worker/tsconfig.json ./apps/worker/
+COPY apps/web/package.json apps/web/tsconfig.json ./apps/web/
+COPY apps/admin/package.json apps/admin/tsconfig.json ./apps/admin/
+COPY packages/shared-types/package.json packages/shared-types/tsconfig.json ./packages/shared-types/
+COPY packages/game-rules/package.json packages/game-rules/tsconfig.json ./packages/game-rules/
+COPY packages/config/package.json packages/config/tsconfig.json ./packages/config/
+COPY packages/ui/package.json packages/ui/tsconfig.json ./packages/ui/
+
+# Install dependencies
+RUN pnpm install --frozen-lockfile || pnpm install
+
+# Copy all source files
+COPY . .
+
+# Build shared packages (required before apps can start)
+RUN pnpm turbo run build --filter=@sea-commodity-tycoon/shared-types --filter=@sea-commodity-tycoon/game-rules --filter=@sea-commodity-tycoon/config --filter=@sea-commodity-tycoon/ui
+
+# Default command (overridden in docker-compose.yml per service)
+CMD ["pnpm", "dev"]
